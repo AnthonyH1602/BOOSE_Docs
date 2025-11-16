@@ -1,0 +1,186 @@
+{
+  "source_base_path": "C:/Users/aheff/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.AppCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.AppCircle",
+      "Summary": "<p sourcefile=\"boose/BOOSE_Project.AppCircle.yml\" sourcestartlinenumber=\"1\">Creates a circle on the canvas at the current position with the given radius.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.AppClear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.AppClear.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.AppClear",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.AppRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.AppRect",
+      "Summary": "<p sourcefile=\"boose/BOOSE_Project.AppRect.yml\" sourcestartlinenumber=\"1\">Draws a rectangle on a canvas, with configurable dimensions and a fill option.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.AppReset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.AppReset.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.AppReset",
+      "Summary": "<p sourcefile=\"boose/BOOSE_Project.AppReset.yml\" sourcestartlinenumber=\"1\">Resets the X and Y positions</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.AppSetColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.AppSetColour.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.AppSetColour",
+      "Summary": "<p sourcefile=\"boose/BOOSE_Project.AppSetColour.yml\" sourcestartlinenumber=\"1\">Changes the pen colour on the canvas using RGB values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project.Form1",
+      "Summary": "<p sourcefile=\"boose/BOOSE_Project.Form1.yml\" sourcestartlinenumber=\"1\">Represents the main form of the application, providing the user interface and handling user interactions,\nrendering, and program execution.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSE_Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSE_Project.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSE_Project",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "boose/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/toc.html"
+        },
+        ".json": {
+          "relative_path": "boose/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "y/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "y/toc.html"
+        },
+        ".json": {
+          "relative_path": "y/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
